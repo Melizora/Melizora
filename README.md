@@ -33,16 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melizora&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melizora&layout=compact&theme=dark" alt="Top Languages"/>
-</div>
-
----
-
-
 ## ☕ Support Me
 <a href="https://www.buymeacoffee.com/melizora" target="_blank">
   <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=white">
