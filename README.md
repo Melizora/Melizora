@@ -34,9 +34,10 @@
 ---
 
 ## 📊 GitHub Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=melizora&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melizora&layout=compact&theme=dark" alt="Top Languages">
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melizora&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melizora&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
 
 ---
